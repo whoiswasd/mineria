@@ -1,4 +1,4 @@
-# Actividad 2.7 - Regresión Lineal
+# Actividad 2.8 - Regresión Lineal
 
 ## Descripción
 
@@ -32,7 +32,7 @@ Se trabaja con tres datasets de Kaggle:
 
 ## Notebook
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/whoiswasd/mineria/blob/main/Actividad-2.7/Actividad_2_7_Regresion_Lineal.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/whoiswasd/mineria/blob/main/Actividad-2.7/Actividad_2_8_Regresion_Lineal.ipynb)
 
 ## Datasets
 
